@@ -34,4 +34,20 @@ Diffie-Hellman – default keylength 1024 bits</br>
 MD5 – default size 64 bytes</br>
 SHA1 - default size 64 bytes</br>
 
+<h2>Reference URLs</h2>
+http://www.java-redefined.com/2013/08/symmetric-and-asymmetric-key-encryption.html </br>
+http://www.java-redefined.com/2013/08/symmetric-key-encryption-decryption.html</br>
+http://www.java-redefined.com/2014/03/symmetric-and-asymmetric-key-encryption-with-keytool.html</br>
+http://www.java-redefined.com/2014/03/symmetric-asymmetric-signature.html</br>
+http://www.java-redefined.com/2014/03/java-digital-singnature.html</br>
+https://www.quickprogrammingtips.com/java/java-asymmetric-encryption-decryption-example-with-rsa.html</br>
+https://www.owasp.org/index.php/Using_the_Java_Cryptographic_Extensions</br>
+http://www.code2learn.com/2011/06/encryption-and-decryption-of-data-using.html</br>
+https://howtodoinjava.com/security/java-aes-encryption-example/</br>
+https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography</br>
+
+
+
+
+
 
