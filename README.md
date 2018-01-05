@@ -7,6 +7,7 @@ There are two general categories of key based algorithms:
 JCE API's are implemented by Cryptographic Service Providers. Each of these cryptographic service providers implements the Service Provider Interface which specifies the functionalities which needs to be implemented by the service providers. Programmers can plugin any Service Providers for performing cryptographic functionalities provided by JCE. J2SE comes with a default provider named SunJCE.</br>
 
 <h2>Symmetric Encryption Algorithms provided by SunJCE</h2></br>
+
 DES - default keylength of 56 bits</br>
 AES -</br>
 RC2, RC4 and RC5</br>
@@ -22,10 +23,14 @@ CBC</br>
 CFB</br>
 OFB</br>
 PCBC</br>
-Asymmetric Encryption Algorithms implemented by SunJCE</br>
+
+<h2>Asymmetric Encryption Algorithms implemented by SunJCE</h2></br>
+
 RSA</br>
 Diffie-Hellman – default keylength 1024 bits</br>
-Hashing / Message Digest Algorithms implemented by SunJCE</br>
+
+<h2>Hashing / Message Digest Algorithms implemented by SunJCE</h2></br>
+
 MD5 – default size 64 bytes</br>
 SHA1 - default size 64 bytes</br>
 
