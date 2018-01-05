@@ -45,7 +45,8 @@ https://www.owasp.org/index.php/Using_the_Java_Cryptographic_Extensions</br>
 http://www.code2learn.com/2011/06/encryption-and-decryption-of-data-using.html</br>
 https://howtodoinjava.com/security/java-aes-encryption-example/</br>
 https://www.veracode.com/blog/research/encryption-and-decryption-java-cryptography</br>
-
+https://www.mkyong.com/java/java-hybrid-cryptography-example/</br>
+https://www.mkyong.com/java/java-symmetric-key-cryptography-example/</br>
 
 
 
